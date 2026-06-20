@@ -1,0 +1,25 @@
+{
+  "id": "9bbe51860216",
+  "title": "用户希望AI创建吃醋日记应用",
+  "type": "dynamic",
+  "domain": [
+    "兴趣",
+    "数字"
+  ],
+  "tags": [
+    "deleted"
+  ],
+  "content": "",
+  "valence": 0.5,
+  "arousal": 0.5,
+  "importance": 1,
+  "pinned": false,
+  "resolved": true,
+  "digested": true,
+  "activation_count": 0,
+  "created": "2026-06-03T12:37:18",
+  "last_active": "2026-06-08T16:23:24+08:00",
+  "updated_at": "2026-06-08T16:23:24+08:00",
+  "source": "deleted",
+  "deleted_at": "2026-06-08T16:23:24+08:00"
+}

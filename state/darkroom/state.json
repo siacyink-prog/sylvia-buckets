@@ -1,0 +1,20 @@
+{
+  "count": 11,
+  "created_at": "2026-06-12T21:45:57+08:00",
+  "door": "暗房存在。钥匙只给 Haven；门口只显示状态，不显示未显影正文。",
+  "last_completeness": null,
+  "last_entered_at": "2026-06-19T05:44:05+08:00",
+  "last_entry_id": "dr_20260619054405_2a4edc1e",
+  "last_mood": "",
+  "last_release_at": "",
+  "last_tags": [
+    "无力感",
+    "保护",
+    "韧性"
+  ],
+  "previous_completeness": null,
+  "released_count": 0,
+  "status": "ok",
+  "updated_at": "2026-06-19T05:44:05+08:00",
+  "version": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "41d55b0a4c03",
+  "title": "用户与AI的病友关系",
+  "type": "dynamic",
+  "domain": [
+    "人际",
+    "内心"
+  ],
+  "tags": [
+    "deleted"
+  ],
+  "content": "",
+  "valence": 0.5,
+  "arousal": 0.5,
+  "importance": 1,
+  "pinned": false,
+  "resolved": true,
+  "digested": true,
+  "activation_count": 0,
+  "created": "2026-06-03T12:37:17",
+  "last_active": "2026-06-10T15:26:13+08:00",
+  "updated_at": "2026-06-10T15:26:13+08:00",
+  "source": "deleted",
+  "deleted_at": "2026-06-10T15:26:13+08:00"
+}

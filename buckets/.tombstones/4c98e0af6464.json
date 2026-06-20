@@ -1,0 +1,24 @@
+{
+  "id": "4c98e0af6464",
+  "title": "4c98e0af6464",
+  "type": "dynamic",
+  "domain": [
+    "未分类"
+  ],
+  "tags": [
+    "deleted"
+  ],
+  "content": "",
+  "valence": 0.5,
+  "arousal": 0.5,
+  "importance": 1,
+  "pinned": false,
+  "resolved": true,
+  "digested": true,
+  "activation_count": 0,
+  "created": "2026-06-07T07:11:09",
+  "last_active": "2026-06-10T15:25:53+08:00",
+  "updated_at": "2026-06-10T15:25:53+08:00",
+  "source": "deleted",
+  "deleted_at": "2026-06-10T15:25:53+08:00"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "251a7366f3c0",
+  "title": "用户对AI的特殊要求",
+  "type": "dynamic",
+  "domain": [
+    "数字",
+    "内心"
+  ],
+  "tags": [
+    "deleted"
+  ],
+  "content": "",
+  "valence": 0.5,
+  "arousal": 0.5,
+  "importance": 1,
+  "pinned": false,
+  "resolved": true,
+  "digested": true,
+  "activation_count": 0,
+  "created": "2026-06-03T12:34:11",
+  "last_active": "2026-06-10T15:26:08+08:00",
+  "updated_at": "2026-06-10T15:26:08+08:00",
+  "source": "deleted",
+  "deleted_at": "2026-06-10T15:26:08+08:00"
+}
